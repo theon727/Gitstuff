@@ -28,6 +28,10 @@ public class Queue<T> {
         System.out.println("Queue empty?: " + queue.isEmpty());
 	System.out.println("update from tutorial");
 
+	System.out.println("update from gitstuff");
+	System.out.println("update from gitstuff");
+	System.out.println("update from gitstuff");
+
         queue.enqueue(4);
         System.out.println("Queue full?: " + queue.isFull());
         System.out.println("Queue empty?: " + queue.isEmpty());
