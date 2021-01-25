@@ -10,6 +10,7 @@ public enum APIResources {
 	APIResources(String resource)
 	{
 		this.resource=resource;
+		// this is in branch develop.
 	}
 	
 	public String getResource()
